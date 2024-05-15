@@ -1,0 +1,8 @@
+
+Global mean O3 RF results using NRF method (*net*);
+Case: OsloCTM3_ssp_senstest_yr18;
+
+;Month;DU;SW clear;SW;LW inst. clear;LW inst.;LW adj.;NET adj.;
+CNTR_SSP119 (mW m-2);1:12;
+10CH4_SSP119-CNTR_SSP119 (mW m-2);1:12;1.2865;-3.2009;0.35736;35.8728;26.08;33.1719;33.5292;
+antro10_SSP119-CNTR_SSP119 (mW m-2);1:12;0.045543;0.31014;0.45781;2.1796;1.5018;1.7551;2.2129;
